@@ -13,8 +13,6 @@ video_id = 'tdZX2GdByS8'
 
 comments = []
 
-# Call the API to get comments
-comments = []
 results = service.commentThreads().list(
     part='snippet',
     videoId=video_id,
@@ -36,7 +34,7 @@ while results:
     else:
         break
 
-df = pd.DataFrame(comments,columns=['comments'])
+df = pd.DataFrame(comments, columns=['comments'])
 df.to_excel('output.xlsx', index=False)
 
 service.close()
