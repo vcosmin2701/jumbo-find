@@ -1,6 +1,12 @@
 import configparser
+import nltk
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from googleapiclient.discovery import build
 import pandas as pd
+
+nltk.download('vader_lexicon')
+
+sid = SentimentIntensityAnalyzer()
 
 config = configparser.ConfigParser()
 config.read('config.ini')
@@ -35,6 +41,9 @@ while results:
         break
 
 df = pd.DataFrame(comments, columns=['comments'])
-df.to_excel('output.xlsx', index=False)
+df.to_csv('output.csv', index=False)
+
+for com in comments:
+    print(sid.polarity_scores(com))
 
 service.close()
