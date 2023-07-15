@@ -1,12 +1,15 @@
-import nltk
+# import nltk
 import pandas as pd
 import re
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+from transformers import pipeline
+
+sentiment_pipeline = pipeline('sentiment-analysis')
 
 lemmatizer = WordNetLemmatizer()
 
-nltk.download('all')
+# nltk.download('all') only downloading when first create the project
 
 data = pd.read_csv('output.csv', encoding='latin-1')
 
@@ -24,4 +27,14 @@ for i in range(len(text)):
     corpus.append(r)
 
 data['comments'] = corpus
-print(data.head())
+sentiment_res = []
+
+for comments in corpus:
+    sentiment_res.append(sentiment_pipeline(comments))
+
+for index in range(len(sentiment_res)):
+    print(" \n Comment: {0} \n Result: {1} \n Score: {2}".format(corpus[index],
+                                                                sentiment_res[index][0]['label'],
+                                                                sentiment_res[index][0]['score']))
+
+df = pd.DataFrame(text)
