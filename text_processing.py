@@ -1,4 +1,3 @@
-# import nltk
 import pandas as pd
 import re
 from nltk.corpus import stopwords
@@ -32,9 +31,12 @@ sentiment_res = []
 for comments in corpus:
     sentiment_res.append(sentiment_pipeline(comments))
 
-for index in range(len(sentiment_res)):
-    print(" \n Comment: {0} \n Result: {1} \n Score: {2}".format(corpus[index],
+with open('result.csv', 'w', encoding='utf-8') as f:
+    for index in range(len(sentiment_res)):
+        f.write(" \n Comment: {0} \n Result: {1} \n Score: {2}".format(corpus[index],
                                                                 sentiment_res[index][0]['label'],
                                                                 sentiment_res[index][0]['score']))
+        f.write('\n')
+
 
 df = pd.DataFrame(text)
