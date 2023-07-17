@@ -16,7 +16,6 @@ api_key = config['api-key']['api_key']
 
 service = build('youtube', 'v3', developerKey=api_key)
 
-
 # video_id = 'tdZX2GdByS8'
 
 video_id = input('Input video id: ')

@@ -32,10 +32,11 @@ for comments in corpus:
     sentiment_res.append(sentiment_pipeline(comments))
 
 with open('result.csv', 'w', encoding='utf-8') as f:
+    f.write("comment,result,score\n")
     for index in range(len(sentiment_res)):
-        f.write(" \n Comment: {0} \n Result: {1} \n Score: {2}".format(corpus[index],
-                                                                sentiment_res[index][0]['label'],
-                                                                sentiment_res[index][0]['score']))
+        f.write("{0},{1},{2}".format(corpus[index],
+                                    sentiment_res[index][0]['label'],
+                                    sentiment_res[index][0]['score']))
         f.write('\n')
 
 
