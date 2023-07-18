@@ -1,10 +1,14 @@
+import os.path
 import pandas as pd
 import re
+import datetime
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from transformers import pipeline
 
-sentiment_pipeline = pipeline('sentiment-analysis')
+model_id = 'siebert/sentiment-roberta-large-english'
+
+sentiment_pipeline = pipeline('sentiment-analysis',model=model_id)
 
 lemmatizer = WordNetLemmatizer()
 
@@ -26,18 +30,26 @@ for i in range(len(text)):
     corpus.append(r)
 
 data['comments'] = corpus
+
 sentiment_res = []
 
 for comments in corpus:
     sentiment_res.append(sentiment_pipeline(comments))
 
-with open('result.csv', 'w', encoding='utf-8') as f:
-    f.write("comment,result,score\n")
+file_path = 'result.csv'
+
+file_exists = os.path.exists(file_path)
+
+with open('result.csv', 'a', encoding='utf-8') as f:
+    if not file_exists:
+        f.write("video_id,date created,comment,result,score\n")
+
+    current_time = datetime.datetime.now()
+    time_string = current_time.strftime("%Y-%m-%d %H:%M:%S")
     for index in range(len(sentiment_res)):
-        f.write("{0},{1},{2}".format(corpus[index],
+        f.write("{0},{1},{2},{3}".format(
+                                    time_string,
+                                    corpus[index],
                                     sentiment_res[index][0]['label'],
                                     sentiment_res[index][0]['score']))
         f.write('\n')
-
-
-df = pd.DataFrame(text)

@@ -1,6 +1,4 @@
-import atexit
 import configparser
-import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from googleapiclient.discovery import build
 import pandas as pd
@@ -16,12 +14,13 @@ api_key = config['api-key']['api_key']
 
 service = build('youtube', 'v3', developerKey=api_key)
 
-# video_id = 'tdZX2GdByS8'
+# video_id = 'tdZX2GdByS8' test
 
 video_id = input('Input video id: ')
 if len(video_id) > 11:
     raise Exception("Invalid video id, please check again the id")
 
+id = video_id
 
 comments = []
 
