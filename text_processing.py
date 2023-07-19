@@ -47,7 +47,7 @@ with open('result.csv', 'a', encoding='utf-8') as f:
     current_time = datetime.datetime.now()
     time_string = current_time.strftime("%Y-%m-%d %H:%M:%S")
     for index in range(len(sentiment_res)):
-        f.write("{0},{1},{2},{3}".format(
+        f.write("{0},\"{1}\",{2},{3}".format(
                                     time_string,
                                     corpus[index],
                                     sentiment_res[index][0]['label'],
