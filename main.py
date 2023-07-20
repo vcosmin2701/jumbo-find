@@ -1,7 +1,6 @@
 import configurator
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import pandas as pd
-
 # nltk.download('vader_lexicon')
 # video_id = 'tdZX2GdByS8' test
 
@@ -45,5 +44,4 @@ df.to_csv('output.csv', index=False)
 cfg.service.close()
 
 exec(open("text_processing.py").read())
-
 

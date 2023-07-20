@@ -6,11 +6,11 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from transformers import pipeline
 
-model_id = 'siebert/sentiment-roberta-large-english'
+model_id = 'distilbert-base-uncased-finetuned-sst-2-english'
 
-sentiment_pipeline = pipeline('sentiment-analysis',model=model_id)
+sentiment_pipeline = pipeline('sentiment-analysis', model=model_id)
 
-lemmatizer = WordNetLemmatizer()
+lemma = WordNetLemmatizer()
 
 # nltk.download('all') only downloading when first create the project
 
@@ -25,7 +25,7 @@ for i in range(len(text)):
     r = r.lower()
     r = r.split()
     r = [word for word in r if word not in stopwords.words('english')]
-    r = [lemmatizer.lemmatize(word) for word in r]
+    r = [lemma.lemmatize(word) for word in r]
     r = ' '.join(r)
     corpus.append(r)
 
@@ -53,3 +53,5 @@ with open('result.csv', 'a', encoding='utf-8') as f:
                                     sentiment_res[index][0]['label'],
                                     sentiment_res[index][0]['score']))
         f.write('\n')
+
+exec(open("data_plot.py").read())
