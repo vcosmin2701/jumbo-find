@@ -1,20 +1,14 @@
-import configparser
+import configurator
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
-from googleapiclient.discovery import build
 import pandas as pd
 
 # nltk.download('vader_lexicon')
+# video_id = 'tdZX2GdByS8' test
+
+# Configuration of YT API
+cfg = configurator.Configurator()
 
 sid = SentimentIntensityAnalyzer()
-
-config = configparser.ConfigParser()
-config.read('config.ini')
-
-api_key = config['api-key']['api_key']
-
-service = build('youtube', 'v3', developerKey=api_key)
-
-# video_id = 'tdZX2GdByS8' test
 
 video_id = input('Input video id: ')
 if len(video_id) > 11:
@@ -24,7 +18,7 @@ id = video_id
 
 comments = []
 
-results = service.commentThreads().list(
+results = cfg.service.commentThreads().list(
     part='snippet',
     videoId=video_id,
     textFormat='plainText',
@@ -36,7 +30,7 @@ while results:
         comments.append(comment)
 
     if 'nextPageToken' in results:
-        results = service.commentThreads().list(
+        results = cfg.service.commentThreads().list(
             part='snippet',
             videoId=video_id,
             textFormat='plainText',
@@ -48,6 +42,8 @@ while results:
 df = pd.DataFrame(comments, columns=['comments'])
 df.to_csv('output.csv', index=False)
 
-service.close()
+cfg.service.close()
 
 exec(open("text_processing.py").read())
+
+
