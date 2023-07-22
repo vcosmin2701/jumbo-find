@@ -1,6 +1,7 @@
 import configurator
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import pandas as pd
+from langdetect import detect
 # nltk.download('vader_lexicon')
 # video_id = 'tdZX2GdByS8' test
 
@@ -26,7 +27,8 @@ results = cfg.service.commentThreads().list(
 while results:
     for item in results['items']:
         comment = item['snippet']['topLevelComment']['snippet']['textDisplay']
-        comments.append(comment)
+        if detect(comment) == 'en':
+            comments.append(comment)
 
     if 'nextPageToken' in results:
         results = cfg.service.commentThreads().list(
