@@ -46,4 +46,3 @@ df.to_csv('output.csv', index=False)
 cfg.service.close()
 
 exec(open("text_processing.py").read())
-

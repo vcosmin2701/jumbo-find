@@ -1,24 +1,20 @@
-# dan implementation for bar plotting
+# dan implementation for data visualization
 
 import pandas as pd
-from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
 
-df = pd.read_csv('result.csv', header=None)
+data = pd.read_csv('result.csv', sep=';')
 
-t = df[2]
+sentiment_counts = data['result'].value_counts()
 
-counts = t.value_counts()
+plt.figure(figsize=(6, 4))
+plt.bar(sentiment_counts.index, sentiment_counts.values, color=['blue', 'red'])
 
-plt.figure(figsize=(7, 5))
+for i, count in enumerate(sentiment_counts.values):
+    plt.text(i, count, str(count), ha='center', va='bottom')
 
-plt.bar('POSITIVE', counts['POSITIVE'], color='blue', label='POSITIVE')
-plt.text('POSITIVE', counts['POSITIVE'], str(counts['POSITIVE']), ha='center', va='bottom')
-
-plt.bar('NEGATIVE', counts['NEGATIVE'], color='red', label='NEGATIVE')
-plt.text('NEGATIVE', counts['NEGATIVE'], str(counts['NEGATIVE']), ha='center', va='bottom')
-
-plt.xlabel('Category')
+plt.xlabel('Sentiment')
 plt.ylabel('Count')
-plt.legend()
+plt.title('Count of Positive and Negative Sentiments')
 
 plt.show()
