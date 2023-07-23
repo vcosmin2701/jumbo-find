@@ -1,10 +1,12 @@
-import requests
-from googleapiclient.discovery import build
+import configurator
 
-def get_youtube_video_ids(api_key, search_query):
-    youtube = build('youtube', 'v3', developerKey=api_key)
+# Configuration of YT API
+cfg = configurator.Configurator()
 
-    search_response = youtube.search().list(
+# https://www.youtube.com/watch?v=video_id for testing the video id source
+
+def get_youtube_video_ids(search_query):
+    search_response = cfg.service.search().list(
         q=search_query,
         part='id',
         type='video',
@@ -14,10 +16,10 @@ def get_youtube_video_ids(api_key, search_query):
     video_ids = [item['id']['videoId'] for item in search_response['items']]
     return video_ids
 
+
 if __name__ == "__main__":
-    api_key = "AIzaSyASitxw_ki1EAc0jmgipZ77p8Nb0ig4ICc"
-    search_query = input("Please enter the query, pănă nutz dau două: ")
-    video_ids = get_youtube_video_ids(api_key, search_query)
+    search_query = input("Please enter the query : ")
+    video_ids = get_youtube_video_ids(search_query)
 
     if video_ids:
         print("youtube video ids:")
