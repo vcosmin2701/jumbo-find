@@ -32,7 +32,7 @@ while results:
             if detect(comment) == 'en':
                 comments.append(comment)
         except:
-            print("Bad request")
+            print("Unexpected/Bad request")
         else:
             pass
 
