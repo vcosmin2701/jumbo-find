@@ -1,21 +1,266 @@
-date;comment;result;score
-2023-07-23-14:09:54;guy seems cool;POSITIVE;0.9994432330131531
-2023-07-23-14:09:54;always coolest guy situation;POSITIVE;0.9993045330047607
-2023-07-23-14:09:54;van aert must greatest ever cyclist;POSITIVE;0.9996565580368042
-2023-07-23-14:09:54;vinegard want pull want waste leg niether could beat pogacar hehehe know got save every single drop sweat hehehe;NEGATIVE;0.9964017868041992
-2023-07-23-14:09:54;one greatest 1 day rider 1 greatest tour rider win many green jersey yet taking fool like;POSITIVE;0.7490811347961426
-2023-07-23-14:09:54;thanks aert;POSITIVE;0.9997503161430359
-2023-07-23-14:09:54;join another team become team leader;POSITIVE;0.9870502948760986
-2023-07-23-14:09:54;exactly time itâ medium journalist drama lol;NEGATIVE;0.6659668684005737
-2023-07-23-14:09:54;wout stellar dude great cyclist team leader;POSITIVE;0.612143874168396
-2023-07-23-14:09:54;listen wout instead mad belgian press;NEGATIVE;0.9958428740501404
-2023-07-23-14:09:54;wout steamroller champion right period love seeing race express frustration tooð;NEGATIVE;0.9691697359085083
-2023-07-23-14:09:54;tour de france unchained cool really feel like trying create controversy portray rider certain way like drive survive somewhat good sport get attention hope become fake soap opera ð;NEGATIVE;0.9787874817848206
-2023-07-23-14:09:54;atmosphere great yeahhâ;POSITIVE;0.9998413324356079
-2023-07-23-14:09:54;yet could see friction team yesterday stage wrong personally receiving end fan medium make sometimes state mind really going going le tour enjoy race encourage rider rider want read hear made journalism finish three week tour huge accomplishment need focus fully;POSITIVE;0.9171376824378967
-2023-07-23-14:09:54;professional behaved much dignity sportsmanship wvaâ;POSITIVE;0.9941646456718445
-2023-07-23-14:09:54;live canada stage 1 2;POSITIVE;0.9979532957077026
-2023-07-23-14:09:54;making something nothing surprised guy beat;NEGATIVE;0.9957340359687805
-2023-07-23-14:14:57;jumbo visma fell asleep crucial time plane simple;NEGATIVE;0.9993060827255249
-2023-07-23-14:14:57;wonder wout get support fast min even vingegaard could helped pulling minute two think team like jumbo visma cannot help wout last min tacical mistake;NEGATIVE;0.9971771240234375
-2023-07-23-14:14:57;lafay got reward ð â ð ³ brave enough go;POSITIVE;0.9883198738098145
+id;date;comment;result;score
+tdZX2GdByS8;2023-07-24-22:34:34;guy seems cool;POSITIVE;0.9994432330131531
+tdZX2GdByS8;2023-07-24-22:34:34;always coolest guy situation;POSITIVE;0.9993045330047607
+tdZX2GdByS8;2023-07-24-22:34:34;van aert must greatest ever cyclist;POSITIVE;0.9996565580368042
+tdZX2GdByS8;2023-07-24-22:34:34;vinegard want pull want waste leg niether could beat pogacar hehehe know got save every single drop sweat hehehe;NEGATIVE;0.9964017868041992
+tdZX2GdByS8;2023-07-24-22:34:34;one greatest 1 day rider 1 greatest tour rider win many green jersey yet taking fool like;POSITIVE;0.7490811347961426
+tdZX2GdByS8;2023-07-24-22:34:34;thanks aert;POSITIVE;0.9997503161430359
+tdZX2GdByS8;2023-07-24-22:34:34;join another team become team leader;POSITIVE;0.9870502948760986
+tdZX2GdByS8;2023-07-24-22:34:34;exactly time itâ medium journalist drama lol;NEGATIVE;0.6659668684005737
+tdZX2GdByS8;2023-07-24-22:34:34;wout stellar dude great cyclist team leader;POSITIVE;0.612143874168396
+tdZX2GdByS8;2023-07-24-22:34:34;listen wout instead mad belgian press;NEGATIVE;0.9958428740501404
+tdZX2GdByS8;2023-07-24-22:34:34;wout steamroller champion right period love seeing race express frustration tooð;NEGATIVE;0.9691697359085083
+tdZX2GdByS8;2023-07-24-22:34:34;tour de france unchained cool really feel like trying create controversy portray rider certain way like drive survive somewhat good sport get attention hope become fake soap opera ð;NEGATIVE;0.9787874817848206
+tdZX2GdByS8;2023-07-24-22:34:34;atmosphere great yeahhâ;POSITIVE;0.9998413324356079
+tdZX2GdByS8;2023-07-24-22:34:34;yet could see friction team yesterday stage wrong personally receiving end fan medium make sometimes state mind really going going le tour enjoy race encourage rider rider want read hear made journalism finish three week tour huge accomplishment need focus fully;POSITIVE;0.9171376824378967
+tdZX2GdByS8;2023-07-24-22:34:34;professional behaved much dignity sportsmanship wvaâ;POSITIVE;0.9941646456718445
+tdZX2GdByS8;2023-07-24-22:34:34;live canada stage 1 2;POSITIVE;0.9979532957077026
+tdZX2GdByS8;2023-07-24-22:34:34;making something nothing surprised guy beat;NEGATIVE;0.9957340359687805
+QhoDU-7mqVU;2023-07-24-22:37:18;jumbo visma team f king gladiator show mercyð favorite teamâ;NEGATIVE;0.9018806219100952
+QhoDU-7mqVU;2023-07-24-22:37:18;focusing positive energy eating well maximising marginal gain go jonas believe miracle;POSITIVE;0.9992470741271973
+QhoDU-7mqVU;2023-07-24-22:37:18;guy rest day jonas vingegaard belief team plan eh hit head something please call ambulance;NEGATIVE;0.9978556036949158
+QhoDU-7mqVU;2023-07-24-22:37:18;jonas day resting pogaä ar backflips pool ð;NEGATIVE;0.9918102622032166
+QhoDU-7mqVU;2023-07-24-22:37:18;wish good luck today jonas jumbo;POSITIVE;0.9973832964897156
+QhoDU-7mqVU;2023-07-24-22:37:18;freewout;POSITIVE;0.9809911251068115
+QhoDU-7mqVU;2023-07-24-22:37:18;hope wout transfer another team;NEGATIVE;0.9860585331916809
+QhoDU-7mqVU;2023-07-24-22:37:18;good luck tomorrow tt jonas apart wout suspect rest team taking easy refreshed ready ride hard support jonas wednesday go jumba;POSITIVE;0.9014174342155457
+QhoDU-7mqVU;2023-07-24-22:37:18;wout kuss fucking champion;NEGATIVE;0.9989016056060791
+QhoDU-7mqVU;2023-07-24-22:37:18;video could easily least 5 minute long;NEGATIVE;0.9963817596435547
+QhoDU-7mqVU;2023-07-24-22:37:18;fan put better video atleast title video representing eachother;NEGATIVE;0.9917353987693787
+QhoDU-7mqVU;2023-07-24-22:37:18;idiot wearing facemasks outside thought nonsense;NEGATIVE;0.9996641874313354
+QhoDU-7mqVU;2023-07-24-22:37:18;ok jonas dreaming victory rider;POSITIVE;0.9992838501930237
+QhoDU-7mqVU;2023-07-24-22:37:18;saw whoosh rest day ride today nearly heart attack ð;NEGATIVE;0.9861619472503662
+QhoDU-7mqVU;2023-07-24-22:37:18;laughing as title video;POSITIVE;0.8427085280418396
+QhoDU-7mqVU;2023-07-24-22:37:18;believe guy;POSITIVE;0.9939470291137695
+QhoDU-7mqVU;2023-07-24-22:37:18;jonas mask ridiculous;NEGATIVE;0.9976722598075867
+QhoDU-7mqVU;2023-07-24-22:37:18;crush pog ð ð;NEGATIVE;0.9989652633666992
+QhoDU-7mqVU;2023-07-24-22:37:18;best team world ð;POSITIVE;0.9998340606689453
+QhoDU-7mqVU;2023-07-24-22:37:18;basically rider spend rest day believing nice;POSITIVE;0.7866237163543701
+QhoDU-7mqVU;2023-07-24-22:37:18;title actual video;POSITIVE;0.9436387419700623
+QhoDU-7mqVU;2023-07-24-22:37:18;wout probably going mont blanc;NEGATIVE;0.9993496537208557
+QhoDU-7mqVU;2023-07-24-22:37:18;fair idea rider spent rest day video lol;NEGATIVE;0.9967092275619507
+QhoDU-7mqVU;2023-07-24-22:37:18;jonas super doper shape belief shape jonas also belief dopo visma wish dopest moment till paris;NEGATIVE;0.9492276906967163
+QhoDU-7mqVU;2023-07-24-22:37:18;super tall dude walking behind jonas 0 16;POSITIVE;0.9963399171829224
+QhoDU-7mqVU;2023-07-24-22:37:18;one 1 team tdf always go guy jonas victory sending prayer love support kampala uganda ð ºð africa;POSITIVE;0.9882809519767761
+QhoDU-7mqVU;2023-07-24-22:37:18;got dream;POSITIVE;0.9995879530906677
+zezCrCUdbic;2023-07-24-23:32:09;sepp probably jumbo important mountain domestique;POSITIVE;0.9893866777420044
+zezCrCUdbic;2023-07-24-23:32:09;sorry usa nothing honest day passing european want nothing u specially france vasque country hate u sepp outstanding tdf doubt amazing engine protector jonas time wishing well congrats sepp congrats family supporting guiding moment life;NEGATIVE;0.9510094523429871
+zezCrCUdbic;2023-07-24-23:32:09;sepp kuss already cyclist year ð ð ð ð ð ð;NEGATIVE;0.9885104894638062
+U66s7zM1spE;2023-07-24-23:52:27;van aert best rider team better roglic better bingeggard team give leadership role big competition see real monster;POSITIVE;0.9979346990585327
+U66s7zM1spE;2023-07-24-23:52:27;acting like rider broke story wout leaving early denigrated deserves apology wout jumbo visma apology asshole;NEGATIVE;0.9987448453903198
+U66s7zM1spE;2023-07-24-23:52:27;congrats wout sarah new baby boy happy;NEGATIVE;0.7481439709663391
+U66s7zM1spE;2023-07-24-23:52:27;wout incredible athlete incredible human huge kudos helping team another tour win sincerest congratulation birth second son;POSITIVE;0.999416708946228
+U66s7zM1spE;2023-07-24-23:52:27;thank everything good luck baby;POSITIVE;0.9998284578323364
+U66s7zM1spE;2023-07-24-23:52:27;dont get tho come tour even though knew going leave wanted stage win doesnt care team selfish;NEGATIVE;0.9911193251609802
+U66s7zM1spE;2023-07-24-23:52:27;wout favorite rider far dedication wife solidified place personal podium;POSITIVE;0.9958534240722656
+U66s7zM1spE;2023-07-24-23:52:27;jonas almost certain becoming champion 2023 tour de france feel like wout done job well although pitty get stage win left team something important;NEGATIVE;0.92931067943573
+U66s7zM1spE;2023-07-24-23:52:27;real man real hero;POSITIVE;0.9998456239700317
+U66s7zM1spE;2023-07-24-23:52:27;congratulation beautiful childâ â â ð ð denmark hope win world championship â;POSITIVE;0.9988833069801331
+U66s7zM1spE;2023-07-24-23:52:27;noooooo first wait turn 90 year old retire ð ð ð ð ð ð ð â ¹ï ð ð ð ð ð ð ð ð ð ð â ¹ï ð ð ð;NEGATIVE;0.9870185852050781
+U66s7zM1spE;2023-07-24-23:52:27;love wout;POSITIVE;0.966355562210083
+U66s7zM1spE;2023-07-24-23:52:27;â love dilemma;POSITIVE;0.6846131086349487
+U66s7zM1spE;2023-07-24-23:52:27;hope smooth delivery looking forward hearing good news wva;POSITIVE;0.9997947812080383
+U66s7zM1spE;2023-07-24-23:52:27;wout easily impressive rider yearâ tdf nothing canâ proved every stage congrats upcoming birth childð wout;POSITIVE;0.9881669878959656
+U66s7zM1spE;2023-07-24-23:52:27;congratulation;POSITIVE;0.9949937462806702
+U66s7zM1spE;2023-07-24-23:52:27;100 right decision;POSITIVE;0.9991263747215271
+U66s7zM1spE;2023-07-24-23:52:27;counting time see photo mini wout riding tiny bike;NEGATIVE;0.9887442588806152
+U66s7zM1spE;2023-07-24-23:52:27;one best rider generation family man well done wout;POSITIVE;0.9995868802070618
+U66s7zM1spE;2023-07-24-23:52:27;stud man;NEGATIVE;0.9784532189369202
+U66s7zM1spE;2023-07-24-23:52:27;true man mad respect young man;POSITIVE;0.9981315732002258
+U66s7zM1spE;2023-07-24-23:52:27;great respect wout team supporting family chapeau;POSITIVE;0.9967371821403503
+U66s7zM1spE;2023-07-24-23:52:27;best wout good accomplished father rare take child abuse abandonment wout done outstanding team work jealous child would difficult pick though would teach ride bicycle;POSITIVE;0.9968164563179016
+U66s7zM1spE;2023-07-24-23:52:27;wout sepp reason watch whenever cycling available job every day whining maybe gc yet member powerhouse team great cyclist;NEGATIVE;0.9730585217475891
+U66s7zM1spE;2023-07-24-23:52:27;life stage win;POSITIVE;0.9997275471687317
+U66s7zM1spE;2023-07-24-23:52:27;well done wout suit catch baby cought one mine pretty awesome first hold child;POSITIVE;0.9953859448432922
+U66s7zM1spE;2023-07-24-23:52:27;respect man putting family first never forget insane work stage 6 tour looked like demigod bicycle good man deserve luck world;NEGATIVE;0.9463824033737183
+U66s7zM1spE;2023-07-24-23:52:27;great sport person also great husband father modern hero wva;POSITIVE;0.9997401833534241
+U66s7zM1spE;2023-07-24-23:52:27;guy awesome best wish successful birth;POSITIVE;0.9995813965797424
+U66s7zM1spE;2023-07-24-23:52:27;one think â planned getting another kid better like tdf 3 week one year;NEGATIVE;0.9975855350494385
+U66s7zM1spE;2023-07-24-23:52:27;family first even ahead tour good luck hard work begin;POSITIVE;0.9997475743293762
+U66s7zM1spE;2023-07-24-23:52:27;best wish wout thankyou great example power conviction love watching ð ð ð ð ð;POSITIVE;0.9953778982162476
+U66s7zM1spE;2023-07-24-23:52:27;congratulation young man new family ð ð;POSITIVE;0.9782071709632874
+U66s7zM1spE;2023-07-24-23:52:27;love wout van aert;POSITIVE;0.9977425336837769
+U66s7zM1spE;2023-07-24-23:52:27;family first right move good luck family;POSITIVE;0.999841570854187
+U66s7zM1spE;2023-07-24-23:52:27;opportunity win future second chance witness 2nd son born wise logical choice congratulation wish good health sarah newborn enjoy moment champ ð â ï;POSITIVE;0.997127115726471
+U66s7zM1spE;2023-07-24-23:52:27;nice speaking dutch flemish;POSITIVE;0.9985430240631104
+U66s7zM1spE;2023-07-24-23:52:27;2 favs julian wout real racer always lookin go;POSITIVE;0.9914253950119019
+U66s7zM1spE;2023-07-24-23:52:27;good luck mate;POSITIVE;0.9997971653938293
+U66s7zM1spE;2023-07-24-23:52:27;good luck wout great decision great team;POSITIVE;0.9997370839118958
+U66s7zM1spE;2023-07-24-23:52:27;mean job lose current lead fault ideal teammate husband great july;NEGATIVE;0.9993613362312317
+U66s7zM1spE;2023-07-24-23:52:27;acceptable decision rider modern age professional cycling previous era would acceptable leave team grand tour reason like;NEGATIVE;0.9514039754867554
+U66s7zM1spE;2023-07-24-23:52:27;thank everything done tdf 3;POSITIVE;0.9997844099998474
+U66s7zM1spE;2023-07-24-23:52:27;iâ still hold idea made decision knew jonas yellow nailed;NEGATIVE;0.961334764957428
+U66s7zM1spE;2023-07-24-23:52:27;definitely hurt jonas basically guaranteed win either;NEGATIVE;0.9993933439254761
+U66s7zM1spE;2023-07-24-23:52:27;good luck hope see bike soon family first;POSITIVE;0.9997181296348572
+U66s7zM1spE;2023-07-24-23:52:27;idea married let alone wife pregnant good choice leave tour important home;NEGATIVE;0.9724087119102478
+U66s7zM1spE;2023-07-24-23:52:27;7 min lead yes go home;POSITIVE;0.9976219534873962
+U66s7zM1spE;2023-07-24-23:52:27;wishing best family;POSITIVE;0.9905617833137512
+U66s7zM1spE;2023-07-24-23:52:27;total stud thanks show tour congratulation addition family;POSITIVE;0.996547281742096
+U66s7zM1spE;2023-07-24-23:52:27;team mange sure jonas good spot best form moment;POSITIVE;0.9998002648353577
+U66s7zM1spE;2023-07-24-23:52:27;put supporting team tour de france get go home support wife family congrats happy home coming wife kid;POSITIVE;0.999468982219696
+U66s7zM1spE;2023-07-24-23:52:27;great man race baby birth happens good vibe family birth;POSITIVE;0.9997970461845398
+U66s7zM1spE;2023-07-24-23:52:27;today stage well suited win congratulation;POSITIVE;0.9995169639587402
+U66s7zM1spE;2023-07-24-23:52:27;root pogacar whenever race cheer hope one day wear green polkadot yellow jersey;NEGATIVE;0.826445460319519
+U66s7zM1spE;2023-07-24-23:52:27;already excellet father mr van aert good husband;POSITIVE;0.9986666440963745
+U66s7zM1spE;2023-07-24-23:52:27;wout favorite pro long shot sad hear also happy family enjoy time;POSITIVE;0.9995031356811523
+U66s7zM1spE;2023-07-24-23:52:27;best wva savage tour;POSITIVE;0.9994408488273621
+U66s7zM1spE;2023-07-24-23:52:27;wout steamroller fan understand baby wout mom need ð;NEGATIVE;0.9953994154930115
+U66s7zM1spE;2023-07-24-23:52:27;wout wout wout guy;NEGATIVE;0.999036431312561
+U66s7zM1spE;2023-07-24-23:52:27;tdf done barring mishap done part team even sacrificing personal glory focus trophy give enormous joy congrats wout;POSITIVE;0.9688632488250732
+U66s7zM1spE;2023-07-24-23:52:27;job done jonas vingegaard already tour bag;NEGATIVE;0.9943254590034485
+U66s7zM1spE;2023-07-24-23:52:27;salamat par kakaiba ang lakas mo legend begian champ tjv home comeback stronger roglic next year;POSITIVE;0.9845618605613708
+U66s7zM1spE;2023-07-24-23:52:27;wva immense supporting team team fan support family priority nothing important family team prepared eventuality wva gave everything tour great cyclist pity achieve stage win contribution team especially jonas vindegaard joy watch never subscribed cycling team channel started following tdf 2017 however performance team jumbo visma hero saddle especially wout van aert decision today mean subscribe channel join cycling channel subscription lanterne rouge course;NEGATIVE;0.9827514290809631
+U66s7zM1spE;2023-07-24-23:52:27;wout one favorite rider super happy family;NEGATIVE;0.9252167344093323
+U66s7zM1spE;2023-07-24-23:52:27;good luck wonderful family mate ð ð ð;POSITIVE;0.9994121789932251
+U66s7zM1spE;2023-07-24-23:52:27;bro domestique bike;POSITIVE;0.9917532205581665
+U66s7zM1spE;2023-07-24-23:52:27;missed wife child tour next year;NEGATIVE;0.99775630235672
+U66s7zM1spE;2023-07-24-23:52:27;best familie wout â â â family always come first;POSITIVE;0.9954053163528442
+U66s7zM1spE;2023-07-24-23:52:27;family first hope go well;POSITIVE;0.9997324347496033
+U66s7zM1spE;2023-07-24-23:52:27;definitely right choice nothing better supporting wife needed congrats enjoy moment;POSITIVE;0.9987238049507141
+U66s7zM1spE;2023-07-24-23:52:27;translation know got guy still rode like beast even wife new baby mind congratulation wout;NEGATIVE;0.990790843963623
+U66s7zM1spE;2023-07-24-23:52:27;sh man need go kip like earned;POSITIVE;0.6944478750228882
+U66s7zM1spE;2023-07-24-23:52:27;sound awfully selfish took spot someone oh well wasnt good people would saying oh well;NEGATIVE;0.9994034767150879
+U66s7zM1spE;2023-07-24-23:52:27;thumb somebody leaf tour heck yeah good ya;POSITIVE;0.9977858066558838
+U66s7zM1spE;2023-07-24-23:52:27;real winner tour congratulationsð;POSITIVE;0.9989569187164307
+U66s7zM1spE;2023-07-24-23:52:27;wout helped deliver jonas win must help wife deliver ð;POSITIVE;0.9919365644454956
+U66s7zM1spE;2023-07-24-23:52:27;wish u n ur partner best cheer â ð;NEGATIVE;0.97856205701828
+U66s7zM1spE;2023-07-24-23:52:27;wout mvp last year year exception could say honestly could leave tour proud contribution making jonas winner elect essential unfortunate got win low profile tour au contraire great time family newborn thank wout cheer quã bec canada;NEGATIVE;0.6405583024024963
+U66s7zM1spE;2023-07-24-23:52:27;deserve birth child another tour next year;NEGATIVE;0.9788500666618347
+U66s7zM1spE;2023-07-24-23:52:27;congratulation woot happy could part tour spent much time front fighting team ridder time family definitely best normal people ð;POSITIVE;0.76759934425354
+U66s7zM1spE;2023-07-24-23:52:27;flemmish people extreme proud love much always stay sober give u much joy wish gouverment could;POSITIVE;0.9498623013496399
+U66s7zM1spE;2023-07-24-23:52:27;good job wout best luck addition family;POSITIVE;0.9995173215866089
+U66s7zM1spE;2023-07-24-23:52:27;congrats daddy superstar year mightily helped man secure yellow next year multiple stage tour;POSITIVE;0.9960971474647522
+U66s7zM1spE;2023-07-24-23:52:27;congratulation new van aert â;POSITIVE;0.984136700630188
+U66s7zM1spE;2023-07-24-23:52:27;imagine jonas loses tour wout decided leave;NEGATIVE;0.999082088470459
+U66s7zM1spE;2023-07-24-23:52:27;good wout much respect;POSITIVE;0.9996715784072876
+U66s7zM1spE;2023-07-24-23:52:27;best luck guy legend;POSITIVE;0.9997261166572571
+U66s7zM1spE;2023-07-24-23:52:27;real man real bike rider;POSITIVE;0.999788224697113
+U66s7zM1spE;2023-07-24-23:52:27;good wout good whole team much respect;POSITIVE;0.9998335838317871
+U66s7zM1spE;2023-07-24-23:52:27;rooting wout win stage year also happy see happy get home new baby best mom baby;POSITIVE;0.9989423155784607
+U66s7zM1spE;2023-07-24-23:52:27;main man still mvp wout undoubtedly top bloke hope everything go well wife wout;POSITIVE;0.7148076891899109
+U66s7zM1spE;2023-07-24-23:52:27;donâ think jonas going win tdf without wout;POSITIVE;0.9947748184204102
+U66s7zM1spE;2023-07-24-23:52:27;iâ huge fan wva heâ rock team;POSITIVE;0.9852076768875122
+U66s7zM1spE;2023-07-24-23:52:27;timing perfect jonas leading tour comfortable margin four stage remaining wout part excellent teammate part excellent husband father;POSITIVE;0.9986530542373657
+U66s7zM1spE;2023-07-24-23:52:27;job done well done wva go wnjoy time fam;POSITIVE;0.9978753328323364
+U66s7zM1spE;2023-07-24-23:52:27;wout absolutely best around cyclist ð;POSITIVE;0.867482602596283
+U66s7zM1spE;2023-07-24-23:52:27;best luck wife wout tremendous successful tour tjv;POSITIVE;0.9994148015975952
+U66s7zM1spE;2023-07-24-23:52:27;good see going help family timing choice could tough perhaps even start labor tour;POSITIVE;0.6865244507789612
+U66s7zM1spE;2023-07-24-23:52:27;true warrior hope go well get great dad done team proud;POSITIVE;0.9995341300964355
+U66s7zM1spE;2023-07-24-23:52:27;congrats angel idol wout thanks helping team let go jumbo;POSITIVE;0.9971930384635925
+U66s7zM1spE;2023-07-24-23:52:27;good luck whole family hopefully wout show kid podium paris next year;NEGATIVE;0.9827703237533569
+U66s7zM1spE;2023-07-24-23:52:27;done hell lot team year tour mad respect athlete;POSITIVE;0.9883826375007629
+U66s7zM1spE;2023-07-24-23:52:27;another great victory wout team jumbo visma cycling;POSITIVE;0.9881126284599304
+U66s7zM1spE;2023-07-24-23:52:27;best;POSITIVE;0.9997941851615906
+U66s7zM1spE;2023-07-24-23:52:27;big big rider deep respect best family;POSITIVE;0.9998015761375427
+U66s7zM1spE;2023-07-24-23:52:27;best luck shame see leave early life priority come back stronger next year;POSITIVE;0.754489004611969
+U66s7zM1spE;2023-07-24-23:52:27;family come first plus jonas seven minute lead team spare wout hope wout would allowed wife even time difference jonas tadej still 10 second;POSITIVE;0.9900434017181396
+U66s7zM1spE;2023-07-24-23:52:27;wout van aert left tour de france wife sarah soon give birth second child great man inside gesture love one neighbor good boy;POSITIVE;0.9923309087753296
+U66s7zM1spE;2023-07-24-23:52:27;wout ty denmark amazing ride jonas year 3;POSITIVE;0.99650639295578
+U66s7zM1spE;2023-07-24-23:52:27;always family come first good season good tt;POSITIVE;0.9998101592063904
+U66s7zM1spE;2023-07-24-23:52:27;en french say ã sent le roussi something jonas wheel;NEGATIVE;0.9641529321670532
+U66s7zM1spE;2023-07-24-23:52:27;good man ability integrity proven cyclist father;POSITIVE;0.9997619986534119
+U66s7zM1spE;2023-07-24-23:52:27;much important sport thanks wout;POSITIVE;0.9996032118797302
+U66s7zM1spE;2023-07-24-23:52:27;priority straight;POSITIVE;0.9923956394195557
+U66s7zM1spE;2023-07-24-23:52:27;congratulation good luck wout sarah ð;NEGATIVE;0.6324536204338074
+U66s7zM1spE;2023-07-24-23:52:27;done job tour team strong congratulation jumbo visma good luck sarah welcoming child together bravo;POSITIVE;0.9993390440940857
+U66s7zM1spE;2023-07-24-23:52:27;respect;POSITIVE;0.9997342228889465
+U66s7zM1spE;2023-07-24-23:52:27;kinda cool team allows;POSITIVE;0.999854564666748
+U66s7zM1spE;2023-07-24-23:52:27;best kind decision love depth wout family man last forever best wout sarah;POSITIVE;0.9983540773391724
+U66s7zM1spE;2023-07-24-23:52:27;favourite important thing life tdf best wish;POSITIVE;0.9969468712806702
+U66s7zM1spE;2023-07-24-23:52:27;wout beast love perspective dilemma good home hat solid tdf jumbo;POSITIVE;0.9941353797912598
+U66s7zM1spE;2023-07-24-23:52:27;respect recovery time haha congratulation weapon tour;POSITIVE;0.852880597114563
+U66s7zM1spE;2023-07-24-23:52:27;danish reporter heared jonas telling wout good luck brushed interview evening tour wout made public wish good luck;POSITIVE;0.9910320043563843
+U66s7zM1spE;2023-07-24-23:52:27;super wout congratulation thanks incredible help see soon;POSITIVE;0.9990767240524292
+U66s7zM1spE;2023-07-24-23:52:27;good decision;POSITIVE;0.9998308420181274
+U66s7zM1spE;2023-07-24-23:52:27;wout youâ champ got priority right end day itâ cycling;NEGATIVE;0.9768329858779907
+U66s7zM1spE;2023-07-24-23:52:27;thought would see rest team specially wva get stage win lead pogi looking forward paris thinking going race philipsen sprinter could perfect scenario going home still happy;POSITIVE;0.9989113807678223
+U66s7zM1spE;2023-07-24-23:52:27;great job wout best luck new babyâ ð ð;POSITIVE;0.6902323961257935
+U66s7zM1spE;2023-07-24-23:52:27;absolute class act true legendð ªð ¼ð ð ð ªð ¼ð ð;POSITIVE;0.9902722239494324
+U66s7zM1spE;2023-07-24-23:52:27;got cycling started seeing tv wout watching video confirms everything think champion sport well life congratulation imminent birth best wish world championship greeting rome italy;NEGATIVE;0.9341329336166382
+U66s7zM1spE;2023-07-24-23:52:27;best wout family;POSITIVE;0.9942776560783386
+U66s7zM1spE;2023-07-24-23:52:27;great rider great person always go win sure went win one wish family best;POSITIVE;0.9998335838317871
+U66s7zM1spE;2023-07-24-23:52:27;champ;POSITIVE;0.9990437626838684
+U66s7zM1spE;2023-07-24-23:52:27;congrats wout mr wout fantastic rider fantastic guy wait watch achieve future wout love uk 3;POSITIVE;0.9611574411392212
+U66s7zM1spE;2023-07-24-23:52:27;proficiat wout dank u;NEGATIVE;0.9950385689735413
+U66s7zM1spE;2023-07-24-23:52:27;gr8 shame wout podium rest lad 4 best winning team awesome rider ð however birth child wife come 1st gr8 ð able 2 ride 3 4 tdef;POSITIVE;0.7221083641052246
+U66s7zM1spE;2023-07-24-23:52:27;best wife love tjv shirt pink yellow red stripe;POSITIVE;0.9796669483184814
+U66s7zM1spE;2023-07-24-23:52:27;respect wva went tremendously hearing chapeau wout team especially sarah;POSITIVE;0.9962067604064941
+U66s7zM1spE;2023-07-24-23:52:27;chicken tdf;NEGATIVE;0.9978723526000977
+U66s7zM1spE;2023-07-24-23:52:27;know always ride 65kmh wanted home fast ð;POSITIVE;0.9319247603416443
+U66s7zM1spE;2023-07-24-23:52:27;good guy congratulation advance;POSITIVE;0.9980849027633667
+U66s7zM1spE;2023-07-24-23:52:27;dear wout great cyclist everyone could witness talent hard work right place wife side team made right decicion respect wish wife unborn child best;POSITIVE;0.9947473406791687
+U66s7zM1spE;2023-07-24-23:52:27;luck wout lot health little one;NEGATIVE;0.650200366973877
+U66s7zM1spE;2023-07-24-23:52:27;til belgian word comfortable comfortable;POSITIVE;0.999632716178894
+U66s7zM1spE;2023-07-24-23:52:27;true sportsman family always come first 3 much talent heart bravery jumbo visma team well done wout van aert looking forward seeing new family member;POSITIVE;0.999591052532196
+U66s7zM1spE;2023-07-24-23:52:27;man ð;NEGATIVE;0.8032612800598145
+U66s7zM1spE;2023-07-24-23:52:27;congrats wout good biker good man good father;POSITIVE;0.9912227392196655
+U66s7zM1spE;2023-07-24-23:52:27;congrats wout sarah ð;NEGATIVE;0.9924356341362
+U66s7zM1spE;2023-07-24-23:52:27;know wout read comment got greatest respect sportsman husband person person inspired son go football cycling helped convince beautiful sport enjoy personally admire managing struggle exceptional rider focusing team jonas goal well wish best wife next day year come tonight 8y old son dressed brand new jumbo visma kit first time take ride sure wear pride joy think new cycling hero wout jonas even though mention go whole team jvâ really enjoy watching work together brilliantly;POSITIVE;0.9985700845718384
+U66s7zM1spE;2023-07-24-23:52:27;woud moment became fan yesterday got appreciation today get respect place heart great guy;POSITIVE;0.9988767504692078
+U66s7zM1spE;2023-07-24-23:52:27;good dad got head right place congratulation;POSITIVE;0.9997746348381042
+U66s7zM1spE;2023-07-24-23:52:27;ohhhhhh pityð expected show till champ elysee cheer good news familyð ³ thx everything given whole team far;NEGATIVE;0.5677849054336548
+U66s7zM1spE;2023-07-24-23:52:27;sad wout leaving tour without stage win ð º;NEGATIVE;0.9992607235908508
+U66s7zM1spE;2023-07-24-23:52:27;best family baby thank cycling monster idol see next year even stronger champ;POSITIVE;0.9997441172599792
+U66s7zM1spE;2023-07-24-23:52:27;honourable man best wish wout wife son birth daughter;NEGATIVE;0.7267969250679016
+U66s7zM1spE;2023-07-24-23:52:27;told labour imminent every day 2 week saying seem taking granted theyâ win dispense woutâ service itâ til fat lady sings etc iâ bummed huge crush wout;NEGATIVE;0.9990944862365723
+U66s7zM1spE;2023-07-24-23:52:27;legend wout enjoy watching race congratulation wife new arrival ð;POSITIVE;0.9867025017738342
+U66s7zM1spE;2023-07-24-23:52:27;family always come first;POSITIVE;0.9997207522392273
+U66s7zM1spE;2023-07-24-23:52:27;left challenge jasper pederson mean entirely possible could win 6 stage spectacle;NEGATIVE;0.970167875289917
+U66s7zM1spE;2023-07-24-23:52:27;tour go home peace enjoy little one;POSITIVE;0.9995582699775696
+U66s7zM1spE;2023-07-24-23:52:27;congratulation wout really given team tour;NEGATIVE;0.9876840710639954
+U66s7zM1spE;2023-07-24-23:52:27;guy beast absolute legend vino get home mama well done wout well done jumbo;POSITIVE;0.9904240965843201
+U66s7zM1spE;2023-07-24-23:52:27;athlete best wife growing family;POSITIVE;0.9997969269752502
+U66s7zM1spE;2023-07-24-23:52:27;iâ bit sad heâ leaving early heâ amazing husband father put family first iâ happy family see next year woutvanaert;NEGATIVE;0.9536899328231812
+U66s7zM1spE;2023-07-24-23:52:27;best wish family really know love;POSITIVE;0.9985840320587158
+U66s7zM1spE;2023-07-24-23:52:27;family first would race would win wout one greatest cyclist sport ever seen;NEGATIVE;0.5530266761779785
+U66s7zM1spE;2023-07-24-23:52:27;superstar massive machine team player seems great guy happy;POSITIVE;0.9996145963668823
+U66s7zM1spE;2023-07-24-23:52:27;congrats wout;NEGATIVE;0.9881664514541626
+U66s7zM1spE;2023-07-24-23:52:27;gave everything team already year congrats;POSITIVE;0.9989193677902222
+U66s7zM1spE;2023-07-24-23:52:27;miss good time home see next year champ â ï ð;POSITIVE;0.997848391532898
+U66s7zM1spE;2023-07-24-23:52:27;class act ð ð ð tour without wout go dad;POSITIVE;0.8693158030509949
+U66s7zM1spE;2023-07-24-23:52:27;sad see go really hoped would stage amazing rider go luck family congratulation advance true champion ð;POSITIVE;0.9992238283157349
+U66s7zM1spE;2023-07-24-23:52:27;estimation team gone massively seems many company want bleed staff dry give 100 work neglecting family;NEGATIVE;0.9996618032455444
+U66s7zM1spE;2023-07-24-23:52:27;best wish wout wife great job tour year sir hope see racing soon best u k;POSITIVE;0.9959954023361206
+U66s7zM1spE;2023-07-24-23:52:27;good guy family first;POSITIVE;0.999850869178772
+U66s7zM1spE;2023-07-24-23:52:27;like riding cycling ad make stage interesting wish best beautiful family best world;POSITIVE;0.9951757192611694
+U66s7zM1spE;2023-07-24-23:52:27;great tour great decision best;POSITIVE;0.9998445510864258
+U66s7zM1spE;2023-07-24-23:52:27;legend father teammate dude next uci president;POSITIVE;0.9937959909439087
+U66s7zM1spE;2023-07-24-23:52:27;hero;POSITIVE;0.9997521042823792
+U66s7zM1spE;2023-07-24-23:52:27;massive respect sir ð;POSITIVE;0.9996993541717529
+U66s7zM1spE;2023-07-24-23:52:27;well done wout absolutely right decision family always come first ð ª;POSITIVE;0.9931314587593079
+U66s7zM1spE;2023-07-24-23:52:27;3 would deserved agressive rider award think wife kid born worth 100 congrats good luck;POSITIVE;0.6927177309989929
+U66s7zM1spE;2023-07-24-23:52:27;fantastic man wout hope chaotic world around always manage right priority short video show much love wife cherish family hope everything go well best four 3;POSITIVE;0.9995856881141663
+U66s7zM1spE;2023-07-24-23:52:27;october 25th 2023 jumbo sport director visit wife girfriends anticonception pill prevent birth tour 2024 xdxdxdxdxd;NEGATIVE;0.862295925617218
+U66s7zM1spE;2023-07-24-23:52:27;huge mvdp fan highly admire respect guy absolute machine teamplayer humble wish family well new baby;POSITIVE;0.9991381168365479
+U66s7zM1spE;2023-07-24-23:52:27;quit revoke stage win finish tour order receive stage win;POSITIVE;0.9982622265815735
+U66s7zM1spE;2023-07-24-23:52:27;monkey man bye;NEGATIVE;0.9637110233306885
+U66s7zM1spE;2023-07-24-23:52:27;pleasure watch ride wout stage win everything like comment good feeling bike good luck family;POSITIVE;0.9996373653411865
+U66s7zM1spE;2023-07-24-23:52:27;well wout real man decent man proud family man one hell cyclist deserved stage win tour time know lot win leg come world scotland cheering winning would put huge smile face sarah job birth newborn win win way incredible rider equally obviously great human best congratulation imminent birth;POSITIVE;0.9972056746482849
+U66s7zM1spE;2023-07-24-23:52:27;class definition;POSITIVE;0.9914924502372742
+U66s7zM1spE;2023-07-24-23:52:27;legend wout go home family enjoy achieved tour little;NEGATIVE;0.7614907622337341
+U66s7zM1spE;2023-07-24-23:52:27;good wout dad best ð;POSITIVE;0.9993430972099304
+U66s7zM1spE;2023-07-24-23:52:27;congratulation wout promotion fatherhood another amazing job tdf2023 right time back wife moment precious;POSITIVE;0.9922027587890625
+U66s7zM1spE;2023-07-24-23:52:27;ð respect made great tdf usual good rest wife;POSITIVE;0.9990527033805847
+U66s7zM1spE;2023-07-24-23:52:27;race heâ needed longer may therefore take leave;NEGATIVE;0.9990224838256836
+U66s7zM1spE;2023-07-24-23:52:27;best wish sarah wout;NEGATIVE;0.9885956645011902
+U66s7zM1spE;2023-07-24-23:52:27;hope get paternity test celebrating;POSITIVE;0.9563845992088318
+U66s7zM1spE;2023-07-24-23:52:27;good man congratulation family also tjv tdf 2023 edition;POSITIVE;0.9944051504135132
+U66s7zM1spE;2023-07-24-23:52:27;bit sad favorite rider win stage haha course wish best;POSITIVE;0.7411911487579346
+U66s7zM1spE;2023-07-24-23:52:27;everything go fine many tour come congratulation wout family ð â;POSITIVE;0.9978598952293396
+U66s7zM1spE;2023-07-24-23:52:27;thank wout also congrats;POSITIVE;0.9997547268867493
+U66s7zM1spE;2023-07-24-23:52:27;best luck wife baby shinning star getting people cycling cheer;POSITIVE;0.9984458088874817
+U66s7zM1spE;2023-07-24-23:52:27;hope best child wife everything going alright wout husband father wout great rider respect decision support;POSITIVE;0.9666087627410889
+U66s7zM1spE;2023-07-24-23:52:27;best wish second baby nothing precious good luck;NEGATIVE;0.994170606136322
+U66s7zM1spE;2023-07-24-23:52:27;family first wout big respect;NEGATIVE;0.673694908618927
+U66s7zM1spE;2023-07-24-23:52:27;congrats man result tour kind two family one closest heart always mean family first wish wife safe delivery;POSITIVE;0.7919215559959412
+U66s7zM1spE;2023-07-24-23:52:27;unfortunate chance compete stage win sarah winning brings new kid world congrats wout;NEGATIVE;0.9887828230857849
+U66s7zM1spE;2023-07-24-23:52:27;job done year tdf helping jonas secure yellow jersey way pogacar gonna fight back 7 minute unless put 200 watt hidden motor bike ð;NEGATIVE;0.6732991933822632
+U66s7zM1spE;2023-07-24-23:52:27;yes part make champion;POSITIVE;0.9998217225074768
+U66s7zM1spE;2023-07-24-23:52:27;helping team win tour beeing wife expecting child month mad respect wout absolute legend;POSITIVE;0.983982264995575
+U66s7zM1spE;2023-07-24-23:52:27;wout look happy happier stage win good team support go wout;POSITIVE;0.9995848536491394
+U66s7zM1spE;2023-07-24-23:52:27;legend best luck world even though iâ belgian would deserved winner;POSITIVE;0.9993775486946106
+U66s7zM1spE;2023-07-24-23:52:27;happy wout team allows family need;POSITIVE;0.9992139339447021
+U66s7zM1spE;2023-07-24-23:52:27;solid choice win enough jersey stage coming year best luck;POSITIVE;0.9998034834861755
+U66s7zM1spE;2023-07-24-23:52:27;wout nice guy sacrificed tour wife hope wout win world championship â ï â ï â ï ð ð ªð ð ªð ð ª;NEGATIVE;0.949959933757782
+U66s7zM1spE;2023-07-24-23:52:27;vingo already secured yellow jersey really best time wout focus pregnant wife;POSITIVE;0.9384411573410034
+U66s7zM1spE;2023-07-24-23:52:27;good luck wva;POSITIVE;0.999764621257782

@@ -5,6 +5,7 @@ import datetime
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from transformers import pipeline
+import main
 
 model_id = 'distilbert-base-uncased-finetuned-sst-2-english'
 
@@ -43,12 +44,13 @@ file_exists = os.path.exists(file_path)
 
 with open('result.csv', 'a', encoding='utf-8') as f:
     if not file_exists:
-        f.write("date;comment;result;score\n")
+        f.write("id;date;comment;result;score\n")
 
     current_time = datetime.datetime.now()
     time_string = current_time.strftime("%Y-%m-%d-%H:%M:%S")
     for index in range(len(sentiment_res)):
-        f.write("{0};{1};{2};{3}".format(
+        f.write("{0};{1};{2};{3};{4}".format(
+            main.id,
             time_string,
             corpus[index],
             sentiment_res[index][0]['label'],
